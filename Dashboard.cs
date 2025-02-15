@@ -42,7 +42,7 @@ namespace hmsVideo
             panel4.Visible = false;
 
         }
-
+//newly added line
         private void btnDiagnosis_Click(object sender, EventArgs e)
         {
 
